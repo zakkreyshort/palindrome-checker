@@ -1,0 +1,11 @@
+/Users/zakkreyshort/Desktop/palindromecheck/bin/Debug/netcoreapp2.2/pal.deps.json
+/Users/zakkreyshort/Desktop/palindromecheck/bin/Debug/netcoreapp2.2/pal.runtimeconfig.json
+/Users/zakkreyshort/Desktop/palindromecheck/bin/Debug/netcoreapp2.2/pal.runtimeconfig.dev.json
+/Users/zakkreyshort/Desktop/palindromecheck/bin/Debug/netcoreapp2.2/pal.dll
+/Users/zakkreyshort/Desktop/palindromecheck/bin/Debug/netcoreapp2.2/pal.pdb
+/Users/zakkreyshort/Desktop/palindromecheck/obj/Debug/netcoreapp2.2/pal.csprojAssemblyReference.cache
+/Users/zakkreyshort/Desktop/palindromecheck/obj/Debug/netcoreapp2.2/pal.csproj.CoreCompileInputs.cache
+/Users/zakkreyshort/Desktop/palindromecheck/obj/Debug/netcoreapp2.2/pal.AssemblyInfoInputs.cache
+/Users/zakkreyshort/Desktop/palindromecheck/obj/Debug/netcoreapp2.2/pal.AssemblyInfo.cs
+/Users/zakkreyshort/Desktop/palindromecheck/obj/Debug/netcoreapp2.2/pal.dll
+/Users/zakkreyshort/Desktop/palindromecheck/obj/Debug/netcoreapp2.2/pal.pdb
